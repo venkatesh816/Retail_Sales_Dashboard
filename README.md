@@ -48,4 +48,4 @@ Jan, Feb, Apr, May, Jun, Jul show strong sales; March and August show lower sale
 ---
 
 **Author:** Venky  
-**Last Updated:** {{10-08-25}}
+**Last Updated:** 10-08-25
